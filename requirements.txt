@@ -1,4 +1,4 @@
-# when install "Flask, boto3 Libraries" Upgrade to last version to work without any problems
+# when install "Flask, boto3 Libraries" Upgrade to latest version to work without any problems
 # pip install --upgrade flask
 # pip install --upgrade boto3
 
